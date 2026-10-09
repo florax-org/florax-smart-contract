@@ -53,7 +53,7 @@ graph TD
 
 ## Stellar Integration
 
-Florax is built natively on **Stellar** for all blockchain operations.
+Florax is built natively on **Stellar** blockchain for all blockchain operations.
 
 ### Horizon API — Transaction Fetching
 
